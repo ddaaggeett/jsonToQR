@@ -1,0 +1,12 @@
+{
+  "name": "JSONtoQR",
+  "version": "1.0.0",
+  "description": "turn json file data into QR code",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Dave Daggett <http://ddaaggeett.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.2.2"
+  }
+}
