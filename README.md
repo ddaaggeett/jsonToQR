@@ -1,6 +1,6 @@
 #### convert your JSON file data to a scannable QR code
 
-    node . file.json qrImage.png
+    node . <name>
 
-place json files in `./json/`
-find generated image in `./codes/` directory
+place json files here: `./json/<name>.json`
+find generated images here: `./codes/<name>.png`
