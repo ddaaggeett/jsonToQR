@@ -1,6 +1,4 @@
-#### convert your JSON file data to a scannable QR code
-
-![jsonToQR .gif](https://media.giphy.com/media/830OB3YZqmWpExxayG/giphy.gif)
+#### embed your JSON file data in a scannable QR code
 
 single file:
 
